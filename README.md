@@ -61,7 +61,7 @@ Passionate about building modern web applications with clean architecture and in
 ## 🌐 Connect With Me
 
 <p align="left">
-<a href="https://linkedin.com/in/USERNAME" target="_blank">
+<a href="https://www.linkedin.com/in/mohammad-ikhsan-509217411/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
