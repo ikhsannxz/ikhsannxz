@@ -1,16 +1,72 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Mohammad Ikhsan</h1>
 
-<!--
-**ikhsannxz/ikhsannxz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Full Stack Developer | Informatics Student
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Passionate about building modern web applications with clean architecture and intuitive user experiences.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 About Me
+
+- 🎓 Informatics Student
+- 💻 Full Stack Developer
+- 🌱 Currently learning Software Architecture & System Design
+- 📍 Kendari, Indonesia
+
+---
+
+## 🛠 Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,javascript,nodejs,express,tailwind,supabase,postgresql,mysql,java,python,git,github,vscode,figma&perline=8" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=ikhsannxz&show_icons=true&theme=transparent&hide_border=true"/>
+</p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ikhsannxz&layout=compact&theme=transparent&hide_border=true"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=ikhsannxz&theme=transparent&hide_border=true"/>
+</p>
+
+---
+
+## 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ikhsannxz&theme=github-compact&hide_border=true"/>
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/USERNAME" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:your@email.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
