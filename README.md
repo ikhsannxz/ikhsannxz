@@ -42,7 +42,7 @@ Passionate about building modern web applications with clean architecture and in
 </p>
 ---
 
-## 🔥 GitHub Streak
+## 🔥 GitHub Strea
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ikhsannxz&theme=transparent&hide_border=true"/>
