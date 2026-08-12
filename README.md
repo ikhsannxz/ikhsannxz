@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Mohammad Ikhsan</h1>
+<h1 align="center">Hi 👋, I'm Mohammad Ikhsa</h1>
 
 <h3 align="center">
 Full Stack Developer | Informatics Student
