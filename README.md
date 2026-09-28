@@ -13,7 +13,7 @@ Passionate about building modern web applications with clean architecture and in
 ## 🚀 About Me
 
 - 🎓 Informatics Student
-- 💻 Full Stack Developer
+- 💻 Full Stack Developer.
 - 🌱 Currently learning Software Architecture & System Design
 - 📍 Kendari, Indonesia
 
