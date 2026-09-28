@@ -14,7 +14,7 @@ Passionate about building modern web applications with clean architecture and in
 
 - 🎓 Informatics Student
 - 💻 Full Stack Developer
-- 🌱 Currently learning Software Architecture & System Desig
+- 🌱 Currently learning Software Architecture & System Design
 - 📍 Kendari, Indonesia
 
 ---
