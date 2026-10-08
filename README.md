@@ -5,7 +5,7 @@ Full Stack Developer | Informatics Student
 </h3>
 
 <p align="center">
-Passionate about building modern web applications with clean architecture and intuitive user experiences
+Passionate about building modern web applications with clean architecture and intuitive user experiences. 
 </p>
 
 ---
